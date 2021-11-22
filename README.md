@@ -1,5 +1,7 @@
 # Add a new Org to Existing Application Channel
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/C0unM4XuIoM/0.jpg)](http://www.youtube.com/watch?v=C0unM4XuIoM "Video Tutorial")
+
 ### Starting network
 
 1. Start the network
